@@ -2,8 +2,8 @@ Run the following commands in your terminal to setup the project
 
 _You must have the LAMP installed on your system_
 
-1.  >git clone https://github.com/Loki-23/Shopping-market.git
-2.  >cd Shopping-Market
+1.  >git clone https://github.com/Loki-23/ShopEase.git
+2.  >cd ShopEase
 3.  >bash run.sh
 
     This will install composer,<br>
